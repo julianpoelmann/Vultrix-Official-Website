@@ -1,0 +1,6 @@
+<ASX version ="3.0">
+   <TITLE>JPStream</TITLE>
+   <ENTRY>
+     <REF HREF="http://192.168.2.27:8081" />
+   </ENTRY>
+ </ASX>
